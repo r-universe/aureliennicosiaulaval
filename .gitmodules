@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CircularRegression"]
+	path = CircularRegression
+	url = https://github.com/aureliennicosiaulaval/circularregression
 [submodule "DonutMap"]
 	path = DonutMap
 	url = https://github.com/aureliennicosiaulaval/donutmap
