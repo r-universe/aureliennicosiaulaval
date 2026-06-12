@@ -11,3 +11,6 @@
 [submodule "ggcircular"]
 	path = ggcircular
 	url = https://github.com/aureliennicosiaulaval/ggcircular
+[submodule "tutorizeR"]
+	path = tutorizeR
+	url = https://github.com/aureliennicosiaulaval/tutorizer
