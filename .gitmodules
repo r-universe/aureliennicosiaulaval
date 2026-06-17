@@ -8,6 +8,9 @@
 [submodule "DonutMap"]
 	path = DonutMap
 	url = https://github.com/aureliennicosiaulaval/donutmap
+[submodule "GLBFP"]
+	path = GLBFP
+	url = https://github.com/aureliennicosiaulaval/glbfp
 [submodule "ggcircular"]
 	path = ggcircular
 	url = https://github.com/aureliennicosiaulaval/ggcircular
