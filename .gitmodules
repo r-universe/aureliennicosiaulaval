@@ -11,6 +11,9 @@
 [submodule "GLBFP"]
 	path = GLBFP
 	url = https://github.com/aureliennicosiaulaval/glbfp
+[submodule "UlavalSSD"]
+	path = UlavalSSD
+	url = https://github.com/aureliennicosiaulaval/ulavalssd
 [submodule "ggcircular"]
 	path = ggcircular
 	url = https://github.com/aureliennicosiaulaval/ggcircular
