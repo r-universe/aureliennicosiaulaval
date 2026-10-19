@@ -1,22 +1,31 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/aureliennicosiaulaval/aureliennicosiaulaval.r-universe.dev
 	branch = HEAD
 [submodule "CircularRegression"]
 	path = CircularRegression
-	url = https://github.com/aureliennicosiaulaval/circularregression
+	url = https://github.com/AurelienNicosiaULaval/CircularRegression
 [submodule "DonutMap"]
 	path = DonutMap
-	url = https://github.com/aureliennicosiaulaval/donutmap
+	url = https://github.com/AurelienNicosiaULaval/DonutMap
 [submodule "GLBFP"]
 	path = GLBFP
-	url = https://github.com/aureliennicosiaulaval/glbfp
+	url = https://github.com/AurelienNicosiaULaval/GLBFP
 [submodule "UlavalSSD"]
 	path = UlavalSSD
-	url = https://github.com/aureliennicosiaulaval/ulavalssd
+	url = https://github.com/AurelienNicosiaULaval/UlavalSSD
 [submodule "ggcircular"]
 	path = ggcircular
-	url = https://github.com/aureliennicosiaulaval/ggcircular
+	url = https://github.com/AurelienNicosiaULaval/ggcircular
+[submodule "groupedChord"]
+	path = groupedChord
+	url = https://github.com/AurelienNicosiaULaval/groupedChord
+[submodule "leaflet.indoor"]
+	path = leaflet.indoor
+	url = https://github.com/AurelienNicosiaULaval/leaflet-indoor
+[submodule "lmmix"]
+	path = lmmix
+	url = https://github.com/AurelienNicosiaULaval/lmmix
 [submodule "tutorizeR"]
 	path = tutorizeR
-	url = https://github.com/aureliennicosiaulaval/tutorizer
+	url = https://github.com/AurelienNicosiaULaval/tutorizeR
