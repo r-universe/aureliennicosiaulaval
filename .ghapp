@@ -1,0 +1,10 @@
+{
+  "id": 173171680,
+  "created_at": "2026-10-19T20:51:25.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["GLBFP", "UlavalSSD", "CircularRegression", "tutorizeR", "DonutMap", "ggcircular", "lmmix", "leaflet-indoor", "groupedChord", "aureliennicosiaulaval.r-universe.dev"]
+}
